@@ -1,4 +1,5 @@
 ### GitHub Tutorial
+#blah
 
 Hello world!
 
@@ -17,12 +18,12 @@ A *repository* is the most basic element of GitHub. They're easiest to imagine a
 	* create through GitHub desktop
 * Create a repository from existing local folder
 	* create through GitHub desktop
-	
+
 A *clone* is a copy of a repository that lives on your computer instead of on a website's server.	A *fork* is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original.
 * Fork and Clone an existing git repository
 	* create through GitHub desktop
 
-	
+
 #### Work on GitHub Desktop
 * Work in local repository
     * Add/Change files
@@ -37,7 +38,7 @@ A *clone* is a copy of a repository that lives on your computer instead of on a 
 	* Create a branch
 		* A *branch* is a parallel version of a repository.  It is contained within the original repository, but does not affect the master branch allowing you to work without disrupting the "live" version. When you're done editing, you can merge your branch back into the master branch to publish your changes.
     * Make a commit
-	* Open a pull request 
+	* Open a pull request
 	* Merge pull request into the master branch
 		* *Merging* takes the changes from one branch (in the same repository or from a fork), and applies them into another.
 	* Pull to local repository
