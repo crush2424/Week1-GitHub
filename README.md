@@ -51,3 +51,6 @@ A *clone* is a copy of a repository that lives on your computer instead of on a 
 * Tutorial for GitHub website: [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 * Tutorial for GitHub desktop:
 [https://help.github.com/desktop/guides/getting-started/](https://help.github.com/desktop/guides/getting-started/)
+
+
+COMMENTS
